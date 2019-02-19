@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550525503 source:/home/shubham/DataStructureusingcpp/InterviewTpp/main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+
